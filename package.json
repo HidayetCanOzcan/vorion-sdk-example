@@ -12,7 +12,7 @@
     "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "vorion-sdk": "^0.8.42"
+    "vorion-sdk": "^0.8.43"
   },
   "devDependencies": {
     "typescript": "^5",
